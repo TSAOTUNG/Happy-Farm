@@ -1,5 +1,6 @@
 # Happy-Farm
 Description
+
 As a hard-working farmer with a grand farm, Bob always takes care of everything in the farm by himself. Planting the crop one by one is so satisfying that he is happy everyday. Happy as Bob is, he is also forgetful. To keep the crop safe, each piece of crop should come with a fence, yet Bob sometimes forgets to set a fence when planting the crop.
 
 In this rural area, thieves come and go. Those notorious thieves steal the crop without protection of a fence. Feeling tired of keeping an eye on all the crop, Bob decides to build a monitor system to keep track of every activity happening in the farm.
